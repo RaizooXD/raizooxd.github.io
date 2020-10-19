@@ -28,5 +28,6 @@ body{
   align-items: flex-start;
 }
 h1{
+  text-align: center;
   color: #00ccff;
 }
