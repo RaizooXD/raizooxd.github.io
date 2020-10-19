@@ -2,10 +2,11 @@
   margin: 0;
 }
 
-title {
-  display: block;
-  font: sans-serif;
-  font-size: 15;
+.container {
+  width: 100%;
+  min-width: 100%;
+  background: radial-gradient(#00ccff, #000000);
+  position: relative;
 }
 
 .subtitle {
