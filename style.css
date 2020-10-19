@@ -27,10 +27,6 @@ body{
   margin: 30px 0;
   align-items: flex-start;
 }
-.menu-icon{
-  width: 50px;
-  cursor: pointer;
-}
 button{
   width: 140px;
   padding: 8%;
