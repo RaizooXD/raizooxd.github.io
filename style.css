@@ -11,6 +11,11 @@
   background-size: cover;
   position: relative;
 }
+.bar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
 button{
   position: fixed;
   align-items: center;
