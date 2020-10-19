@@ -5,13 +5,12 @@
 
 .container {
   width: 100%;
-  min-width: 100vh;
+  min-height: 100vh;
   background: radial-gradient(#00ccff, #000000);
   position: relative;
 }
 
 .subtitle {
   color: #ff0000;
-  font: sans-serif;
   font-size: 10;
 }
