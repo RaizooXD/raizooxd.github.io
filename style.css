@@ -6,7 +6,7 @@ body {
   width: 2560;
   height: 1440;
 }
-.hidden.menu {
+.hidden-menu {
   display: none;
 }
 .container {
