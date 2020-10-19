@@ -30,5 +30,6 @@ body{
 }
 h1{
   text-align: center;
+  display: flex;
   color: #00ccff;
 }
