@@ -17,9 +17,10 @@
   align-items: center;
 }
 button{
-  position: fixed;
-  align-items: center;
-  margin: 8%;
-  padding: 8%;
+  width: 140px;
+  border: 0;
+  padding: 10px;
+  outline: none;
+  color: #fff;
   background: linear-gradient(to right, #2bcff7, #ffe800);
 }
