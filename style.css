@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.container {
+.container{
   width: 100%;
   min-height: 100vh;
   background: radial-gradient(#00ccff, #000000);
@@ -11,7 +11,7 @@
   position: relative;
 }
 
-.logo {
+.logo{
   margin-left: 7%;
   height: 90px;
 }
