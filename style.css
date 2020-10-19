@@ -2,13 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
 body{
   width: 2560;
   height: 1440;
 }
-.hidden-menu{
-  display: none;
-}
+
 .container{
   width: 100%;
   min-height: 100vh;
@@ -16,11 +15,13 @@ body{
   padding-right: 0;
   overflow: hidden;
 }
+
 .navbar{
   width: 100%;
   display: flex;
   align-items: center;
 }
+
 .logo{
   width: 50px;
   cursor: pointer;
