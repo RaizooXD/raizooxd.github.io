@@ -3,11 +3,13 @@
 }
 
 title {
+  display: block;
   font: sans-serif;
   font-size: 15;
 }
 
 subtitle {
+  display: block;
   font: sans-serif;
   font-size: 10;
 }
