@@ -15,8 +15,8 @@ body {
   align-items: center;
 }
 button {
-  height: 10px;
-  width: 140px;
+  height: 100px;
+  width: 120px;
   color: white;
   background: black;
 }
