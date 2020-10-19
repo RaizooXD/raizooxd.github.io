@@ -7,14 +7,3 @@
 body{
   background: linear-gradient(to right, #46daff, #00ff91);
 }
-
-.container{
-  width: 100%;
-  min-height: 100vh;
-  position: relative;
-}
-
-.logo{
-  margin-left: 7%;
-  height: 90px;
-}
