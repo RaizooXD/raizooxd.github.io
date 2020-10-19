@@ -4,11 +4,13 @@
   font-family: sans-serif;
 }
 
+body{
+  background: linear-gradient(to right, #46daff, #00ff91);
+}
+
 .container{
   width: 100%;
   min-height: 100vh;
-  background: radial-gradient(#00ccff, #000000);
-  color: #fff;
   position: relative;
 }
 
