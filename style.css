@@ -16,9 +16,6 @@ body {
 }
 button {
   width: 140px;
-  border: 0;
-  padding: 12px 10px;
-  outline: none;
   color: #fff;
   background: linear-gradient(to right, #2bcff7, #ffe800);
 }
