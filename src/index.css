@@ -15,6 +15,7 @@ body {
   align-items: center;
 }
 button {
+  height: 10px;
   width: 140px;
   color: #fff;
   background: linear-gradient(to right, #2bcff7, #ffe800);
