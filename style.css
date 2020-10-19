@@ -2,24 +2,19 @@
   margin: 0;
   padding: 0;
 }
-body {
+body{
   width: 2560;
   height: 1440;
 }
-.hidden-menu {
+.hidden-menu{
   display: none;
 }
-.container {
+.container{
   width: 100%;
   min-height: 100vh;
   padding-left: 0;
   padding-right: 0;
   overflow: hidden;
-}
-.navbar {
-  width: 100%;
-  display: flex;
-  align-items: center;
 }
 .logo {
   width: 50px;
@@ -31,24 +26,6 @@ body {
   width: 50px;
   cursor: pointer;
 }
-nav {
-  flex: 1;
-  text-align: right;
-  align-items: baseline;
-}
-nav ul li {
-  list-style: none;
-  display: inline-block;
-  margin-right: 30px;
-}
-nav ul li a {
-  text-decoration: none;
-  color: green;
-  font-size: 12px;
-}
-nav ul li a:hover {
-  color: black;
-}
 button {
   width: 140px;
   border: 0;
@@ -59,12 +36,7 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
-.lg {
-  width: 50%;
-  align-items: center;
-  text-align: right;
-}
-.txt {
+.text{
   text-align: right;
   font-size: 10px;
   color: white;
