@@ -1,9 +1,72 @@
-body{
-  height: 2560px;
-  width: 1440px;
+★{
   margin: 0;
   padding: 0;
-  background: linear-gradient(to left, #a7a7a7, #5b5b5b);
-  color: #00c5f6;
+}
+body {
+  width: 2560;
+  height: 1440;
+}
+.hidden.menu {
+  display: none;
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  overflow: hidden;
+}
+.navbar {
+  width: 100%;
+  display: flex;
   align-items: center;
+}
+.logo {
+  width: 50px;
+  cursor: pointer;
+  margin: 30px 0;
+  align-items: flex-start;
+}
+.menu-icon {
+  width: 50px;
+  cursor: pointer;
+}
+nav {
+  flex: 1;
+  text-align: right;
+  align-items: baseline;
+}
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: green;
+  font-size: 12px;
+}
+nav ul li a:hover {
+  color: black;
+}
+button {
+  width: 140px;
+  border: 0;
+  padding: 12px 10px;
+  outline: none;
+  color: black;
+  background: #ffe84e;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.lg {
+  width: 50%;
+  align-items: center;
+  text-align: right;
+}
+.txt {
+  text-align: right;
+  font-size: 10px;
+  color: white;
+  position: fixed;
 }
