@@ -5,6 +5,6 @@
 }
 
 body{
-  background: #00ccff;
+  background: linear-gradient(to left, #a7a7a7, #5b5b5b);
   align-items: center;
 }
