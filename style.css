@@ -33,9 +33,9 @@ body{
 }
 button{
   width: 140px;
-  border: 0;
-  padding: 0;
+  padding: 8%;
   color: black;
+  box-sizing: inherit;
   background: #ffe84e;
   border-radius: 6px;
   cursor: pointer;
