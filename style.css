@@ -1,3 +1,13 @@
 ★ {
   margin: 0;
 }
+
+title {
+  font: sans-serif;
+  font-size: 15;
+}
+
+subtitle {
+  font: sans-serif;
+  font-size: 10;
+}
