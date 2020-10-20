@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #42445A;
+}
+.ui{
+  background: white;
+  border-radius: 6px;
+  width: 80%;
+  height: 350px;
+  margin: 35px;
+  margin-top: 85px;
+}
+button{
+  background: #42445A;
+  width: 70px;
+  height: 30px;
+  border-radius: 6px;
+  border: none;
+  margin-top: 100px;
+  margin-left: 46px;
+  text-align: center;
+  color: white;
+}
+label{
+  font-size: 13px;
+  margin-top: 50px;
+  text-align: center;
+}
+.input{
+  margin-top: 50px;
+  width: 80%;
+  border: 3px black;
+  background: #42445A;
+  border-radius: 6px;
+  height: 30px;
+  margin-left: 20px;
+  text-align: left;
+  font-size: 15px;
+  color: white;
+}
