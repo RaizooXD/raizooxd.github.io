@@ -1,4 +1,4 @@
-* {
+★ {
   margin: 0;
   padding: 0;
 }
@@ -32,7 +32,6 @@ label{
 .input{
   margin-top: 50px;
   width: 80%;
-  border: 3px black;
   background: #42445A;
   border-radius: 6px;
   height: 30px;
